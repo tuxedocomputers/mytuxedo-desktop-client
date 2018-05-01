@@ -1,10 +1,10 @@
-set( APPLICATION_NAME       "Nextcloud" )
-set( APPLICATION_SHORTNAME  "Nextcloud" )
-set( APPLICATION_EXECUTABLE "nextcloud" )
+set( APPLICATION_NAME       "myTUXEDO" )
+set( APPLICATION_SHORTNAME  "myTUXEDO" )
+set( APPLICATION_EXECUTABLE "myTUXEDO" )
 set( APPLICATION_DOMAIN     "nextcloud.com" )
 set( APPLICATION_VENDOR     "Nextcloud GmbH" )
 set( APPLICATION_UPDATE_URL "https://updates.nextcloud.org/client/" CACHE string "URL for updater" )
-set( APPLICATION_ICON_NAME  "Nextcloud" )
+set( APPLICATION_ICON_NAME  "myTUXEDO" )
 
 set( LINUX_PACKAGE_SHORTNAME "nextcloud" )
 
