@@ -3,7 +3,7 @@ set( APPLICATION_SHORTNAME  "myTUXEDO" )
 set( APPLICATION_EXECUTABLE "myTUXEDO" )
 set( APPLICATION_DOMAIN     "nextcloud.com" )
 set( APPLICATION_VENDOR     "Nextcloud GmbH" )
-set( APPLICATION_UPDATE_URL "https://updates.nextcloud.org/client/" CACHE string "URL for updater" )
+set( APPLICATION_UPDATE_URL "https://updates.mytuxedo.de/client/" CACHE string "URL for updater" )
 set( APPLICATION_ICON_NAME  "Nextcloud" )
 
 set( LINUX_PACKAGE_SHORTNAME "nextcloud" )
