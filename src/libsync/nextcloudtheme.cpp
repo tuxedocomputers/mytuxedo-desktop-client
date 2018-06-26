@@ -98,7 +98,7 @@ QString NextcloudTheme::helpUrl() const
 #ifndef TOKEN_AUTH_ONLY
 QColor NextcloudTheme::wizardHeaderBackgroundColor() const
 {
-    return QColor("#ac0000");
+    return QColor("#3c3c3c");
 }
 
 QColor NextcloudTheme::wizardHeaderTitleColor() const
